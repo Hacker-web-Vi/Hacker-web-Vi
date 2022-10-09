@@ -4,11 +4,11 @@ ___
 About me
   <table border="1">
    <tr>
-    <th>Ячейка 1</th>
-    <th>Ячейка 2</th>
+    <th> 1</th>
+    <th> 2</th>
    </tr>
    <tr>
-    <td>Ячейка 3</td>
-    <td>Ячейка 4</td>
+    <td> 3</td>
+    <td> 4</td>
   </tr>
  </table> 
