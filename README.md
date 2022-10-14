@@ -1,6 +1,11 @@
-[![Banner](https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/mainbanner.png)](https://t.me/TestnetPride)
+[![Banner](https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/banner2.png)](https://t.me/TestnetPride)
 ___
 <h1 align="center">Validator/Ambassador/Moderator/Influencer</h1>
+
+Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
+Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
+Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
+Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
 
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/axelard.png' alt='axelar'  width='24.6%'>](https://axelar.network/)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/aleod.png' alt='aleo'  width='24.6%'>](https://aleo.org/)
