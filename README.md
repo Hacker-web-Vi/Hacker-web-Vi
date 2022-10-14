@@ -1,13 +1,6 @@
 [![Banner](https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/banner2.png)](https://t.me/TestnetPride)
 <h1 align="center">Validator/Ambassador/Moderator/Influencer</h1>
 
-Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
-Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
-Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
-Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
-<br>
-
-___
 ### Our Social Media:
 
 <a href="https://t.me/TestnetPride" target="_blank">
@@ -39,3 +32,4 @@ ___
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/subqueryd.png' alt='subquery'  width='24.6%'>](https://subquery.network/)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/seid.png' alt='sei'  width='24.6%'>](https://www.seinetwork.io/)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/fireflyd.png' alt='firefly'  width='24.6%'>](https://firefly.exchange/)
+<br>
