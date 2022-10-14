@@ -29,8 +29,8 @@ ___
 <a href="https://www.google.com/" target="_blank">
 <img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/gmail.png' alt='gmail'  width='16.2%' target="_blank">
   </a>
-___
 
+___
 ### My Portfoilo
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/axelard.png' alt='axelar'  width='24.6%'>](https://axelar.network/)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/aleod.png' alt='aleo'  width='24.6%'>](https://aleo.org/)
