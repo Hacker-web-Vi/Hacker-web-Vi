@@ -6,7 +6,32 @@ Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bl
 Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
 Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
 Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
+<br>
 
+___
+### Our Social Media:
+
+<a href="https://t.me/TestnetPride" target="_blank">
+<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/telegram.png' alt='telegram'  width='16.2%' target="_blank">
+  </a>
+<a href="https://twitter.com/Danii81317712" target="_blank">
+<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/twitter.png' alt='twitter'  width='16.2%' target="_blank">
+  </a>
+<a href="https://medium.com/@mycryptobit99/" target="_blank">
+<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/medium.png' alt='medium'  width='16.2%' target="_blank">
+  </a>
+<a href="https://discordapp.com/users/690334768185082295/" target="_blank">
+<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/discord.png' alt='discord'  width='16.2%' target="_blank">
+  </a>
+<a href="https://testnetpride.com/" target="_blank">
+<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/website.png' alt='website'  width='16.2%' target="_blank">
+  </a>
+<a href="https://www.google.com/" target="_blank">
+<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/gmail.png' alt='gmail'  width='16.2%' target="_blank">
+  </a>
+___
+
+### My Portfoilo
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/axelard.png' alt='axelar'  width='24.6%'>](https://axelar.network/)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/aleod.png' alt='aleo'  width='24.6%'>](https://aleo.org/)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/fortad.png' alt='forta'  width='24.6%'>](https://forta.org/)
@@ -15,22 +40,4 @@ Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bl
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/subqueryd.png' alt='subquery'  width='24.6%'>](https://subquery.network/)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/seid.png' alt='sei'  width='24.6%'>](https://www.seinetwork.io/)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/fireflyd.png' alt='firefly'  width='24.6%'>](https://firefly.exchange/)
-
-#
-<br>
-
-### Social Media:
-
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda)
-[![Telegram Channel](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/TestnetPride)
-[![Medium](https://img.shields.io/badge/-Medium-090909?style=for-the-badge&logo=Medium&logoColor=FF0000)](https://medium.com/@mycryptobit99)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
-
-
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/telegram.png' alt='telegram'  width='16.2%' target="_blank">](https://t.me/TestnetPride)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/twitter.png' alt='twitter'  width='16.2%'>](https://twitter.com/Danii81317712)
-
-https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/telegram.png
-https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/twitter.png
+___
