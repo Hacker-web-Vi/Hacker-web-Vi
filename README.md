@@ -16,7 +16,7 @@ ___
 <a href="https://twitter.com/Danii81317712" target="_blank">
 <img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/twitter.png' alt='twitter'  width='16.2%' target="_blank">
   </a>
-<a href="https://medium.com/@mycryptobit99/" target="_blank">
+<a href="https://medium.com/@mycryptobit99" target="_blank">
 <img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/medium.png' alt='medium'  width='16.2%' target="_blank">
   </a>
 <a href="https://discordapp.com/users/690334768185082295/" target="_blank">
