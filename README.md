@@ -1,5 +1,4 @@
 [![Banner](https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/banner2.png)](https://t.me/TestnetPride)
-___
 <h1 align="center">Validator/Ambassador/Moderator/Influencer</h1>
 
 Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla Hello bla bla bla
