@@ -1,7 +1,7 @@
 [![Banner](https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/banner2.png)](https://t.me/TestnetPride)
 <h1 align="center">Validator/Ambassador/Moderator/Influencer</h1>
 
-### Our Social Media:
+### My Social Media:
 
 <a href="https://t.me/TestnetPride" target="_blank">
 <img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/telegram.png' alt='telegram'  width='16.2%' target="_blank">
