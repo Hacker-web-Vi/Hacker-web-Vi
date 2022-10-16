@@ -31,7 +31,7 @@ ___
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/ironfish.png' alt='ironfish'  width='24.6%'>](https://ironfish.network/)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/subquery1.png' alt='subquery'  width='24.6%'>](https://subquery.network/)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/firefly1.png' alt='firefly'  width='24.6%'>](https://firefly.exchange/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/sei.png1' alt='sei'  width='24.6%'>](https://www.seinetwork.io/)
+[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/sei1.png' alt='sei'  width='24.6%'>](https://www.seinetwork.io/)
 
 ___
 # Stake with TestentPride
