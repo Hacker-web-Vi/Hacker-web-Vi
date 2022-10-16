@@ -24,14 +24,15 @@
 
 ___
 # My Portfoilo
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/axelard.png' alt='axelar'  width='24.6%'>](https://axelar.network/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/aleod.png' alt='aleo'  width='24.6%'>](https://aleo.org/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/fortad.png' alt='forta'  width='24.6%'>](https://forta.org/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/suid.png' alt='sui'  width='24.6%'>](https://sui.io/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/ironfishd.png' alt='ironfish'  width='24.6%'>](https://ironfish.network/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/subqueryd.png' alt='subquery'  width='24.6%'>](https://subquery.network/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/seid.png' alt='sei'  width='24.6%'>](https://www.seinetwork.io/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/fireflyd.png' alt='firefly'  width='24.6%'>](https://firefly.exchange/)
+[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/axelar.png' alt='axelar'  width='24.6%'>](https://axelar.network/)
+[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/aleo.png' alt='aleo'  width='24.6%'>](https://aleo.org/)
+[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/forta.png' alt='forta'  width='24.6%'>](https://forta.org/)
+[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/sui.png' alt='sui'  width='24.6%'>](https://sui.io/)
+[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/ironfish.png' alt='ironfish'  width='24.6%'>](https://ironfish.network/)
+[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/subquery.png' alt='subquery'  width='24.6%'>](https://subquery.network/)
+[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/firefly.png' alt='firefly'  width='24.6%'>](https://firefly.exchange/)
+[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/sei.png' alt='sei'  width='24.6%'>](https://www.seinetwork.io/)
+
 ___
 # Stake with TestentPride
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/stake/Umee.png' alt='stake umee'  width='24.6%'>](https://www.mintscan.io/umee/validators/umeevaloper1afdwxpgnqwz002ynkqtu6vxnyqpqymrr4r8apr)
