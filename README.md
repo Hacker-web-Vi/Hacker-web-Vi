@@ -1,7 +1,7 @@
 [![Banner](https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/banner2.png)](https://t.me/TestnetPride)
-<h1 align="center">Validator/Ambassador/Moderator/Influencer</h1>
+<h1 align="center">PoS Validator</h1>
 
-### My Social Media:
+### Social Media:
 
 <a href="https://t.me/TestnetPride" target="_blank">
 <img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/telegram.png' alt='telegram'  width='16.2%' target="_blank">
@@ -21,24 +21,9 @@
 <a href="https://www.google.com/" target="_blank">
 <img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/socials/gmail.png' alt='gmail'  width='16.2%' target="_blank">
   </a>
-
-___
-# My Portfoilo
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/axelar.png' alt='axelar'  width='24.6%'>](https://axelar.network/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/aleo.png' alt='aleo'  width='24.6%'>](https://aleo.org/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/forta.png' alt='forta'  width='24.6%'>](https://forta.org/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/sui.png' alt='sui'  width='24.6%'>](https://sui.io/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/ironfish.png' alt='ironfish'  width='24.6%'>](https://ironfish.network/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/subquery1.png' alt='subquery'  width='24.6%'>](https://subquery.network/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/firefly1.png' alt='firefly'  width='24.6%'>](https://firefly.exchange/)
-[<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/logoss/sei1.png' alt='sei'  width='24.6%'>](https://www.seinetwork.io/)
-
-___
-# Stake with TestentPride
+  
+# Stake with TrustedPoint
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/stake/Umee.png' alt='stake umee'  width='24.6%'>](https://www.mintscan.io/umee/validators/umeevaloper1afdwxpgnqwz002ynkqtu6vxnyqpqymrr4r8apr)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/stake/Nym.png' alt='stake nym'  width='24.6%'>](https://mixnet.explorers.guru/mixnode/6JuLAGMF5mATnurQ3iEwSP3ur8niP7GzF3PKR3PR5t1P)
 [<img src='https://github.com/Hacker-web-Vi/Hacker-web-Vi/blob/main/assets/stake/Evmos.png' alt='stake evmos'  width='24.6%'>](https://evmos.explorers.guru/validator/evmosvaloper1ny0dzf3wkutdfgxkk6us0xwal7gpuj4hnecw23)
-
-
-
 <br>
